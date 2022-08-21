@@ -27,6 +27,7 @@ int main()
             cout << a[i] << " ";
         }
         cout << "\n";
+        cout<<endl;
        
     }
     return 0;
